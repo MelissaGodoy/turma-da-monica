@@ -4,6 +4,7 @@
 .body {
     width: 1400px;
     background: #f0252f;
+    margin: auto;
  
 }
 body, ul, li, p {
@@ -107,6 +108,7 @@ footer  {
 .body1 {
     width: 1400px;
     background: green;
+    margin: auto;
 }
 .header1 {
     display:flex;
@@ -195,6 +197,7 @@ footer  {
 .body2 {
     width: 1400px;
     background: #c2bf1c;
+    margin: auto;
     
 }
    
@@ -284,6 +287,7 @@ footer  {
 .body3 {
     width: 1400px;
     background: #fafa04;
+    margin: auto;
     
 }
    
