@@ -1,0 +1,19 @@
+.body2 {
+    width: 1400px;
+    background: #c2bf1c;
+    margin: auto;
+    
+}
+
+.header{
+    display:flex;
+    background:#e0f805;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+.menu2 {
+    display: flex;
+}

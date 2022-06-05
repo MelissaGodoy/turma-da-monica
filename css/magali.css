@@ -1,0 +1,16 @@
+.body{
+    width: 1400px;
+    background: #fafa04;
+    margin: auto;
+    
+}
+   
+  
+.header{
+       display:flex;
+       background:#f80525;
+       justify-content: space-between;
+       align-items: center;
+       padding: 20px;
+       
+}

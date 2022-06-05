@@ -1,0 +1,15 @@
+.body {
+    width: 1400px;
+    background: #f0252f;
+    margin: auto;
+ 
+}
+
+.header {
+    display:flex;
+    background:#f03d3d;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}

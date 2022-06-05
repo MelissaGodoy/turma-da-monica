@@ -1,0 +1,24 @@
+.body {
+    width: 1400px;
+    background-color: green;
+    margin: auto;
+}
+.header {
+    display:flex;
+    background:#1b6632;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+
+.footer1 {
+    display: flex;
+    background:#1b6632;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+   
+}

@@ -1,0 +1,55 @@
+body {
+    width: 1400px;
+    background: #06A451;
+    margin: auto;
+    
+}
+
+.header{
+    display:flex;
+    background:green;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+.menu{
+    display: flex;
+}
+
+section{
+    width :1400px;
+    height: 200px;
+    padding: 23px;
+    background-color:#06A451;
+    
+}
+
+section section{
+    width: 420px;
+    height: 200px;
+    float: left;
+    
+}
+
+img{
+    float: left;
+    margin-top: 30px;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    width: 150px;
+    float: left;
+    margin-bottom: 0px;
+}
+
+p{
+    float: left;
+    width: 145px;
+}
+
