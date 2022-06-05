@@ -6,27 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>turma da monica</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/cascao.css">
 </head>
 
 <body class="body2">
-
-    <header class="header2">
-        <nav>
-            <ul class="menu2">
-                <li><a href="#">Quem Somos</a></li> 
-                <li><a href="#">Quadrinhos</a></li> 
-                <li><a href="#">Desenhos</a></li>   
-                <li><a href="#">Personagens</a></li> 
-                <li><a href="#">Colorir</a></li> 
-                <li><a href="#">História</a></li> 
-                <li><a href="#">Binquedos</a></li> 
-                <li><a href="#">Jogos</a></li> 
-                <li><a href="#">Gibis</a></li> 
-                <li><a href="#">Atrações</a></li> 
-                <li><a href="#">Autor</a></li>
-            </ul>
-        </nav>
-    </header>
+        <?php
+            include "menu.php";
+        ?>
 
     <article class="article">
 
@@ -60,9 +46,9 @@
         <footer class="final2">
             <nav>
                 <ul class="footer2">
-                    <li><a href="http://127.0.0.1:5500/html/index.html">Mônica</a></li>
-                    <li><a href="http://127.0.0.1:5500/html/pagina2.html">Cebolinha</a></li> 
-                    <li><a href="http://127.0.0.1:5500/html/pagina4.html">Magali</a></li>    
+                    <li><a href="monica.php">Mônica</a></li>
+                    <li><a href="cebolinha.php">Cebolinha</a></li> 
+                    <li><a href="magali.php">Magali</a></li>    
                 </ul>
             </nav>
         </footer>

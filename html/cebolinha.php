@@ -4,30 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>turma da monica</title>
+    <title>Cebolinha</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/cebolinha.css">
 </head>
 
-<body class="body1">
-
-    <header class="header1">
-        <nav>
-            <ul class="menu1">
-                <li><a href="#">Quem Somos</a></li> 
-                <li><a href="#">Quadrinhos</a></li> 
-                <li><a href="#">Desenhos</a></li>   
-                <li><a href="#">Personagens</a></li> 
-                <li><a href="#">Colorir</a></li> 
-                <li><a href="#">História</a></li> 
-                <li><a href="#">Binquedos</a></li> 
-                <li><a href="#">Jogos</a></li> 
-                <li><a href="#">Gibis</a></li> 
-                <li><a href="#">Atrações</a></li> 
-                <li><a href="#">Autor</a></li>
-            </ul>
-        </nav>
-    </header>
-
+<body class="body">
+        <?php
+            include "menu.php";
+        ?>
     <article class="article">
 
         <aside class="img-maior1">
@@ -59,11 +44,10 @@
 
         <footer>
             <nav>
-                <ul class="footer1">
-                    <li><a href="http://127.0.0.1:5500/html/index.html">Mônica</a></li> 
-                    <li><a href="http://127.0.0.1:5500/html/pagina4.html">Magali</a></li> 
-                    <li><a href="http://127.0.0.1:5500/html/pagina3.html">Cascão</a></li>   
-                    
+                <ul class="footer1"> 
+                    <li><a href="monica.php">Mônica</a></li>
+                    <li><a href="magali.php">Magali</a></li>
+                    <li><a href="cascao.php">Cascão</a></li> 
                 </ul>
             </nav>
         </footer>

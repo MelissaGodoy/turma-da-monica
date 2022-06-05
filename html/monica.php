@@ -6,43 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>turma da monica</title>
     <link rel="stylesheet" href="../css/style.css">
+    <link  rel="stylesheet" href="../css/monica.css">
 </head>
-
-<body class="body3">
-
-    <header class="header3">
-        <nav>
-            <ul class="menu3">
-                <li><a href="#">Quem Somos</a></li> 
-                <li><a href="#">Quadrinhos</a></li> 
-                <li><a href="#">Desenhos</a></li>   
-                <li><a href="#">Personagens</a></li> 
-                <li><a href="#">Colorir</a></li> 
-                <li><a href="#">História</a></li> 
-                <li><a href="#">Binquedos</a></li> 
-                <li><a href="#">Jogos</a></li> 
-                <li><a href="#">Gibis</a></li> 
-                <li><a href="#">Atrações</a></li> 
-                <li><a href="#">Autor</a></li>
-            </ul>
-        </nav>
-    </header>
-
+<body class="body">
+        <?php
+            include "menu.php";
+        ?>
     <article class="article">
 
-        <aside class="img-maior3">
-            <img src="../img/magali-removebg-preview.png" alt="monica com samsao">
+        <aside class="img-maior">
+            <img src="../img/monica-removebg-preview.png" alt="monica com samsao">   
         </aside>
 
-        <aside class="img-menor3">
-            <img src="../img/magalimenor-removebg-preview.png" alt="turma da monica">     
+        <aside class="img-menor">
+            <img src="../img/8b7da58601dc75e668cdfdb5d81139b4.png" alt="turma da monica">   
         </aside>
 
-        <section class="Magali">
-            <h1>Magali</h1>
+        <section class="monica">
+            <h1>Mônica</h1>
         </section>
 
-        <section class="texto3">
+        <section class="texto">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit metus, condimentum non lacinia ac, fringilla eget ex. Aenean mattis ipsum at ligula
                 condimentum iaculis. Mauris laoreet, metus eget pharetra luctus, ipsum lacus placerat leo, quis dapibus leo tellus ac leo. Sed pulvinar porttitor nisl vel 
                 sollicitudin. Fusce in semper nisl. Pellentesque at ornare diam, semper commodo enim. Cras eu mollis metus, eu suscipit eros. Nulla vel dolor non odio semper
@@ -54,20 +38,20 @@
                 porta nec nec nisi. Donec vitae egestas quam, vitae tristique magna. Sed enim dui, cursus et justo iaculis, auctor venenatis dui. Mauris scelerisque consequat 
                 risus, eget condimentum leo tincidunt vel. Morbi semper ligula lobortis libero tempus, non gravida diam vestibulum.
                 sollicitudin. </p>
-        
+         
         </section>
 
-        
-        <footer class="final3">
+        <footer class="final">
             <nav>
-                <ul class="footer3">
-                    <li><a href="index.html">monica</a></li>
-                    <li><a href="pagina2.html">Cebolinha</a></li> 
-                    <li><a href="pagina3.html">Cascão</a></li>    
+                <ul class="footer">
+                    <li><a href="cebolinha.php">Cebolinha</a></li> 
+                    <li><a href="magali.php">Magali</a></li> 
+                    <li><a href="cascao.php">Cascão</a></li>    
                 </ul>
             </nav>
         </footer>
-
-    </article>
+      
+</article>
 </body>
 </html>
+
