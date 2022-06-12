@@ -29,29 +29,29 @@
 <article>
     <section class="primeiraimagem">
         
-        <li><a href="http://localhost/turma-da-monica/html/monica.php"><img src="../img/monicapers.-removebg-preview.png"></a></li>
+        <li><a href="monica.php"><img src="../img/monicapers.-removebg-preview.png"></a></li>
 
     </section>
 
     <section class="segundaimagem">
-        <li><a href="http://127.0.0.1:5500/html/pagina2.html"><img src="../img/cebolinhapers.-removebg-preview.png"></a></li>
+        <li><a href="cebolinha.php"><img src="../img/cebolinhapers.-removebg-preview.png"></a></li>
     </section>
 
     <section class="terceiraimagem">
-        <li><a href="http://127.0.0.1:5500/html/pagina4.html"><img src="../img/magalipers.-removebg-preview.png"></a></li>
+        <li><a href="magali.php"><img src="../img/magalipers.-removebg-preview.png"></a></li>
     </section>
 
     <section class="quartaimagem">
-        <li><a href="http://127.0.0.1:5500/html/pagina3.html"><img src="../img/cascaopers.-removebg-preview.png"></a></li>
+        <li><a href="cascao.php"><img src="../img/cascaopers.-removebg-preview.png"></a></li>
     </section>
 
     <footer class="footerpers">
         <nav>
             <ul class="primeirosbotoes">
-                <li><a href="http://127.0.0.1:5500/html/index.html">monica</a></li>
-                <li><a href="http://127.0.0.1:5500/html/pagina2.html">Cebolinha</a></li> 
-                <li><a href="http://127.0.0.1:5500/html/pagina4.html">Magali</a></li>
-                <li><a href="http://127.0.0.1:5500/html/pagina3.html">Cascão</a></li>    
+                <li><a href="monica.php">monica</a></li>
+                <li><a href="cebolinha.php">Cebolinha</a></li> 
+                <li><a href="magali.php">Magali</a></li>
+                <li><a href="cascao.php">Cascão</a></li>    
             </ul>
         </nav>
     </footer>
