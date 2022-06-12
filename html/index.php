@@ -8,30 +8,16 @@
      <link href="../css/index.css" rel="stylesheet">
     </head>
     <body>
-    <?php
-            include "menu.php";
-        ?>
-       <section>
+    <?php include "menu.php"; ?>
+    <section>
         <h2> Mônica </h2>
         <img src="../img/rostodamonica.png" alt="Está opção direciona diretamente para a pagina da personagem Mônica, aonde você descobre um pouco mais sobre a personagem, e nesta imagem vemos">
-        <p>
-            
-        </p>
         <h2> Cebolinha </h2>
         <img src=" ../img/rostodocebolinha.png" alt=" Está opção direciona diretamente para a pagina do personagem Cebolinha, aonde você descobre um pouco mais sobre o personagem, e nesta imagem vemos ">
-        <p>
-            
-        </p> 
         <h2> Magali </h2>
         <img src="../img/rostodamagali.png " alt="Está opção direciona diretamente para a pagina da personagem Magali, aonde você descobre um pouco mais sobre a personagem, e nesta imagem vemos">
-        <p>
-           
-        </p>
         <h2> Cascão </h2>
         <img src="../img/rostodocascao.png" alt="Está opção direciona diretamente para a pagina do personagem Cascão, aonde você descobre um pouco mais sobre o personagem, e nesta imagem vemos">
-        <p>
-            
-        </p>
         <h2> Atrações </h2>
         <img src="../img/turmadamonicashow.png" alt="Está opção direciona para a pagina Atrações, onde há informações de localização, preços e quais atrações temos disponíveis para visitar  e nesta imagem vemos">
         <p>
@@ -82,16 +68,7 @@
         <p>
            
         </p> 
-    </section>  
-    <footer>
-            <img src="" alt="logo-quem-somos">
-            <h5>Quem somos</h5>
-            <img src="" alt="Logo do facebook">
-            <img src="" alt="Logo do instagram">
-            <img src="" alt="Logo do twitter">
-            <img src="" alt="Logo do orkut">
-            <img src="" alt="Turma da mônica">
-    </footer>           
+    </section>            
     </body>
 </html>
 
