@@ -18,14 +18,16 @@ body {
     display: flex;
 }
 
-section{
+article{
     width :1400px;
     height: 200px;
     padding: 23px;
+    border: solid 3px;
+    border-color: black;
     
 }
 
-section section{
+article section{
     width: 420px;
     height: 200px;
     float: left;

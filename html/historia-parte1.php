@@ -2,6 +2,7 @@
 <html lang="pt-br">
     <head>
         <title>História</title>
+        <meta charset="UTF-8">
         <link href="../css/default.css" rel="stylesheet" type="text/css">
         <link href="../css/historia.css" rel="stylesheet" type="text/css">
     </head>
@@ -10,20 +11,15 @@
             include "menu.php";
         ?>
         <article>
-            <section>
-                <hgroup>
-                    <h2>História</h2>
-                    <h1>Autor</h1>
-                </hgroup>   
-            </section>
-            <section>
+            <hgroup>
+                <h1>História</h1>
+                <h2>Autor</h2>
+            </hgroup>
                 <img src="https://via.placeholder.com/300x200" alt="Aqui tem uma foto do autor" class="foto-esquerda-texto">
                 <p class="texto-direito">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit metus, 
                     condimentum non lacinia ac, fringilla eget ex. Aenean mattis ipsum at ligula condimentum iaculis. Mauris laoreet, metus eget pharetra luctus, ipsum lacus placerat leo, quis dapibus leo tellus ac leo. Sed pulvinar porttitor nisl vel sollicitudin. Fusce in semper nisl. Pellentesque at ornare diam, semper commodo 
                     enim. Cras eu mollis metus, eu suscipit eros. Nulla vel dolor non odio semper porta nec nec nisi. Donec vitae egestas quam, vitae tristique magna. Sed enim dui, 
                 </p>
-            </section>
-            <section>
                 <img src="https://via.placeholder.com/300x200" alt="Aqui tem uma foto da turma da mônica" class="foto-direita-texto">
                 <p class="texto-esquerdo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit metus, 
                     condimentum non lacinia ac, fringilla eget ex. Aenean mattis ipsum at ligula 
@@ -33,7 +29,6 @@
                     enim. Cras eu mollis metus, eu suscipit eros. Nulla vel dolor non odio semper 
                     porta nec nec nisi. Donec vitae egestas quam, vitae tristique magna. Sed enim dui, 
                 </p>
-            </section>
         </article>
         <footer class="final">
             <nav>

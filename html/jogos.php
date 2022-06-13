@@ -2,6 +2,7 @@
 <html lang="pt-br">
     <head>
         <title>Jogos</title>
+        <meta charset="UTF-8">
         <link href="../css/default.css" rel="stylesheet">
         <link href="../css/menu.css" rel="stylesheet">
         <link href="../css/jogos.css" rel="stylesheet">
@@ -10,8 +11,9 @@
         <?php
             include "menu.php";
         ?>
+        <article>
         <h1>Jogos</h1>
-        <section>
+
             <section>
             <img src="../img/achei.jpeg" alt="Aqui temos um kit pitura da turma da mônica">
             <h2>Achei</h2>
@@ -36,31 +38,30 @@
                 semper commodo enim. Cras 
             </p>
             </section>
-        </section>
-        <section>
-        <section>
-            <img src="../img/jogo-eu-sei.jpeg" alt="Aqui temos bonecos da turma da mônica">
-            <h2>Jogo eu sei</h2>
-            <p>ollicitudin. Fusce in semper nisl. 
+            <section>
+                <img src="../img/jogo-eu-sei.jpeg" alt="Aqui temos bonecos da turma da mônica">
+                <h2>Jogo eu sei</h2>
+                <p>ollicitudin. Fusce in semper nisl. 
+                    Pellentesque at ornare diam, 
+                    semper commodo enim. Cras 
+                </p>
+            </section>
+            <section>
+                <img src="../img/jogo.jpeg" alt="Aqui temos um posto da turma da mônica">
+                <h2>Jogo</h2>
+                <p>ollicitudin. Fusce in semper nisl. 
                 Pellentesque at ornare diam, 
                 semper commodo enim. Cras 
-            </p>
-</section>
-<section>
-            <img src="../img/jogo.jpeg" alt="Aqui temos um posto da turma da mônica">
-            <h2>Jogo</h2>
-            <p>ollicitudin. Fusce in semper nisl. 
+                </p>
+            </section>
+            <section>
+                <img src="../img/labirinto.jpeg" alt="Joguinho da turma da mônica">
+                <h2>Labirinto</h2>
+                <p>ollicitudin. Fusce in semper nisl. 
                 Pellentesque at ornare diam, 
                 semper commodo enim. Cras 
-            </p>
-</section>
-<section>
-            <img src="../img/labirinto.jpeg" alt="Joguinho da turma da mônica">
-            <h2>Labirinto</h2>
-            <p>ollicitudin. Fusce in semper nisl. 
-                Pellentesque at ornare diam, 
-                semper commodo enim. Cras 
-            </p>
-        </section>
+                </p>
+            </section>
+        </article>
     </body>
 </html>
