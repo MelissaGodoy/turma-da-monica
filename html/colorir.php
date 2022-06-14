@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
+     <title> colorir</title>
      <meta charset="utf-8">
      <link href="../css/menu.css" rel="stylesheet">
      <link href="../css/default.css" rel="stylesheet">
     </head>
     <body>
         <?php
-            include 'menu.php';
+            include 'menu.php'; 
         ?>
         <section>
             <h2> Colorir 1</h2>
@@ -22,7 +23,6 @@
             <img src="../img/Colorir5.jpg" alt="Nesta imagem são apresentados o personagem cebolinha e o cascão em um campo de futebol, com roupas de futebol, meião, camisa, shorts e chuteira, correndo com uma bola no pé. ">
             <h2> Colorir 6</h2>
             <img src="../img/Colorir6.jpg" alt="Esta imagem mostra o cebolinha e a Mônica vestidos tematicamente na festa junina, e a Mônica está pegando no braço do cebolinha como se os dois fossem um par, estão sorrindo e muito felizes. ">
-            <p>
         </section>        
     </body>
 </html>
