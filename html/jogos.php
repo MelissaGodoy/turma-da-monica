@@ -13,7 +13,6 @@
         ?>
         <article>
         <h1>Jogos</h1>
-
             <section>
             <img src="../img/achei.jpeg" alt="Aqui temos um kit pitura da turma da mônica">
             <h2>Achei</h2>
