@@ -8,6 +8,8 @@
         <!--<link rel="stylesheet" href="yteste.css" type="text/css" />-->
     </head>
     <?php include "menu.php";?>
+
+   
     <body class="body2">
         <article>
             <h1 class="th">QUEM SOMOS</h1>
@@ -15,13 +17,12 @@
             <img src="../img/pessoa2.jpg"  class="qm2" alt="aqui temos a imagem do José Guilherme">
             <img src="../img/pessoa3.jpg" class="qm3" alt="aqui temos a imagem da Yasmin">
             <img src="../img/pessoa4.jpg" class="qm4" alt="aqui temos a imagem do Gilberto">
-            <a href="quem somos.html"> <img src="quemsomos.webp.crdownload" alt="" class="qms"> </a>
+            <a href="quemsomos.html"> <img src="quemsomos.webp.crdownload" alt="" class="qms"> </a>
         </article>
-        <h1 id class="monica">
-            <img src="monicaqm.png.png" alt="aqui temos a imagem da monica">
-        </h1>
+       
+         
+       
         <table>
-            <capition>Aqui temos todos os integrantes do projeto integrador</capition>
             <thead>     
                 <tr>
                     <th>NOME DO ALUNO</th>
