@@ -1,0 +1,39 @@
+body{
+    background-color: red;
+
+}
+section{
+     float: left;
+         
+}
+
+article{
+    height: 850px;
+   
+}
+
+.personagens{
+  
+    width: 290px;
+    height: 180px;
+    padding-left: 45px;
+    padding-right: 2px;
+    bottom: 50px;
+}
+
+.diversão{
+
+    width: 287px;
+    padding-right: 30px;
+    padding-left:30px;
+    bottom: 50px;
+
+}
+
+.diversão2{
+  
+    width: 202px;
+    padding-left: 17px;
+    padding-right: 11px;
+    bottom: 50px;
+}
