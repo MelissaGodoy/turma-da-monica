@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+
+table { background-color: rgb(252, 0, 0);
+    text-align: center;
+    margin:auto;
+    list-style: none;
+
+   
+}
+
+table, tr, td {
+    
+    border: 10px solid  rgba(10, 10, 10, 0.904);
+    padding: 60px;
+    width:auto;
+    height: 80px;
+    top: auto;
+    right: 80px;
+    
+    
+    
+}
+
+
