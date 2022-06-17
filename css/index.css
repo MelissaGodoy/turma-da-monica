@@ -1,7 +1,7 @@
-body{
-    background-color: red;
+/*body{
+    background-color:;
 
-}
+}*/
 section{
      float: left;
          
@@ -12,22 +12,39 @@ article{
    
 }
 
-.personagens{
-  
-    width: 290px;
-    height: 180px;
-    padding-left: 45px;
-    padding-right: 2px;
-    bottom: 50px;
+.header{
+    background: rgb(190, 82, 82);
 }
 
+.personagens{
+  
+    width: 100px;
+    height: 180px;
+    padding: 45px;
+    bottom: 50px;
+}
+#personagem-margem-esquerda{
+    margin-left: 315px;
+}
+#personagem-margem-direita{
+    margin-right: 315px;
+}
+
+.personagens img{
+    border-radius: 50px;
+}
 .diversão{
 
-    width: 287px;
-    padding-right: 30px;
-    padding-left:30px;
+    width: 200px;
+    padding: 30px;
     bottom: 50px;
 
+}
+#diversao-margem-esquerda{
+    margin-left: 165px;
+}
+#diversao-margem-direita{
+    margin-right: 165px;
 }
 
 .diversão2{

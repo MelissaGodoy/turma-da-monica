@@ -9,7 +9,7 @@
         <link href="../css/menu.css" rel="stylesheet">
         <link rel="stylesheet" href="../css/personagens.css">
     </head>
-    <body class="bodypers">
+    <body>
         <?php
             include "menu.php";
         ?>
@@ -26,6 +26,7 @@
             <section class="quartaimagem">
                 <li><a href="cascao.php"><img src="../img/cascaopers.-removebg-preview.png"></a></li>
             </section>
+        </article>
             <footer class="footerpers">
                 <nav>
                     <ul class="primeirosbotoes">
@@ -36,6 +37,5 @@
                     </ul>
                 </nav>
             </footer>
-        </article>
     </body>
 </html>

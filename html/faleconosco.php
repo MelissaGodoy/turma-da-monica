@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="yteste.css"> 
 </head>
 <body class="fc">
-
     <?php
-    include "menu.php";>
+        include "menu.php";
+    ?>
     <section>
     <h1 class="f1">Fale conosco</h1>
     <h2 class="f2" >Nome:</h2>

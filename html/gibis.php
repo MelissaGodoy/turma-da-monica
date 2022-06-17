@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <link href="../css/menu.css" rel="stylesheet">
         <link href="../css/default.css" rel="stylesheet">
-        <link href="../css/csscolorir.css" rel="stylesheet" type="text/css">
+        <link href="../css/gibis.css" rel="stylesheet" type="text/css">
     </head>
     <body> 
         <?php
@@ -13,67 +13,76 @@
         ?>
         <article>
             <section>
-                <h2> Gibi 1</h2>
                 <img src="../img/Gibi1verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Mauris volutpat felis in massa congue porta. Mauris posuere dui 
-                at tellus dictum, eu porttitor nunc pellentesque.
-            </section>
-            <section>
-                <h2>Gibi 2</h2>
-                <img src="../img/Gibi2verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <h2> Magali</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
                  at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
+            </section>
+            <section>
+                <img src="../img/Gibi2verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
+                <h2>Cebolinha – O mistério da Alpaca Azul   </h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                Mauris volutpat felis in massa congue porta. Mauris posuere dui 
+                 at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section> 
             <section>
-                 <h2>Gibi 3</h2>
                  <img src="../img/Gibi3verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
+                 <h2>Turma da Mônica Eliminados</h2>
+                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                Mauris volutpat felis in massa congue porta. Mauris posuere dui 
                  at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section>
             <section>
-                 <h2>Gibi 4</h2>
                  <img src="../img/Gibi4verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
+                 <h2>Turma da Mônica na Casa de Papel</h2>
+                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                Mauris volutpat felis in massa congue porta. Mauris posuere dui 
                  at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section>
             <section>
-                <h2>Gibi 5</h2>
                 <img src="../img/Gibi5verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <h2>Turma da Mônica – Como criar um Bebê Dragão</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
-                at tellus dictum, eu porttitor nunc pellentesque.
+                 at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section>
             <section>
-                <h2>Gibi 6</h2>
                 <img src="../img/Gibi6verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <h2>Turma da Mônica - O Maior Vilão de Todos os Tempos</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
-                at tellus dictum, eu porttitor nunc pellentesque.
+                 at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section>
             <section>
-                <h2>Gibi 7</h2>
                 <img src="../img/Gibi7verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <h2>Turma da Mônica – Lixo Eletrônico</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
-                at tellus dictum, eu porttitor nunc pellentesque.
+                 at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section>
             <section>
-                <h2>Gibi 8</h2>
                 <img src="../img/Gibi8verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <h2>Cascão - O Sumiço do Troféu</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
-                at tellus dictum, eu porttitor nunc pellentesque.
+                 at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section>
             <section>
-                <h2>Gibi 9</h2>
             <img src="../img/Gibi9verdadeiro.jpg" alt="Aqui temos uma Gibi da turma da monica ">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                <h2>Cebolinha - Um Boné Muito Descolado</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Mauris volutpat felis in massa congue porta. Mauris posuere dui 
-                at tellus dictum, eu porttitor nunc pellentesque.
+                 at tellus dictum, eu porttitor nunc pellentesque.
+                </p>
             </section>  
         </article>
     </body>
