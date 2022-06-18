@@ -14,3 +14,21 @@
        padding: 20px;
        
 }
+
+.personagem{
+    color: white;
+}
+.img-maior{
+    margin-bottom: 100px;
+}
+.texto p{
+    background: #e49696;
+}
+
+.footer {
+    background: #f03d3d;
+}
+
+nav{
+    clear: both;
+}

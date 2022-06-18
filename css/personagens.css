@@ -6,9 +6,7 @@
 body, ul, li, p {
     padding: 0px;
     list-style: none;
-    font-size: 1.2rem;
-    font-family: Arial, Helvetica, sans-serif;
-       
+    font-size: 1.2rem; 
 }
 
 a {

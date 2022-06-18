@@ -3,8 +3,8 @@
     <head>
         <title> index </title>
         <meta charset="utf-8">
-        <link href="../css/menu.css" rel="stylesheet">
         <link href="../css/default.css" rel="stylesheet">
+        <link href="../css/menu.css" rel="stylesheet">
         <link href="../css/index.css" rel="stylesheet">
     </head>
     <body>

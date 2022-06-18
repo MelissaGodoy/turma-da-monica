@@ -3,8 +3,9 @@
     <head>
         <title>História</title>
         <meta charset="UTF-8">
-        <link href="../css/historia.css" rel="stylesheet" type="text/css">
         <link href="../css/default.css" rel="stylesheet" type="text/css">
+        <link href="../css/menu.css" rel="stylesheet">
+        <link href="../css/historia.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <?php
@@ -12,8 +13,8 @@
         ?>
         <article>
                 <hgroup>
-                    <h2>História</h2>
-                    <h1>Turma da mônica</h1>
+                    <h1>História</h1>
+                    <h2>Turma da mônica</h2>
                 </hgroup>
                 <img src="../img/turma-da-monica.jpg" alt="Aqui tem uma foto do autor" class="foto-esquerda-texto">
                 <p class="texto-direito">

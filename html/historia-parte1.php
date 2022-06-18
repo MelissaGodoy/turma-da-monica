@@ -4,6 +4,7 @@
         <title>História</title>
         <meta charset="UTF-8">
         <link href="../css/default.css" rel="stylesheet" type="text/css">
+        <link href="../css/menu.css" rel="stylesheet">
         <link href="../css/historia.css" rel="stylesheet" type="text/css">
     </head>
     <body>
@@ -16,7 +17,7 @@
                 <h2>Autor</h2>
             </hgroup>
                 <img src="../img/mauricio.jpg" alt="Aqui tem uma foto do autor" class="foto-esquerda-texto">
-                <p class="texto-esquerdo">
+                <p class="texto-esquerdo">  
                 Maurício de Souza é um cartunista que cria histórias da turma da Mônica, ele nasceu 
                 na cidade de santa Isabel, em 1935, Maurício vivia em uma família repleta pessoas 
                 talentosas, seus pais eram artistas, adoravam desenhar, pintar, fazer poesias e 

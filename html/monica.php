@@ -5,7 +5,9 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>turma da monica</title>
-        <link rel="stylesheet" href="../css/style.css">
+        <link href="../css/default.css" rel="stylesheet">
+        <link href="../css/default-personagens.css" rel="stylesheet">
+        <link href="../css/menu.css" rel="stylesheet">
         <link  rel="stylesheet" href="../css/monica.css">
     </head>
     <body class="body">
@@ -15,9 +17,9 @@
         <aside class="img-maior">
             <img src="../img/monica-removebg-preview.png" alt="monica com samsao">   
         </aside>
-        <article class="article">
-            <h1 class="monica">Mônica</h1>
-            <p class="texto">
+        <article class="texto">
+            <h1 class="personagem">Mônica</h1>
+            <p>
                 Mônica é uma menina de 7 anos de idade, gordinha, dentuça e baixinha, de personalidade forte e briguenta. 
                 Usa um vestido vermelho e está sempre acompanhada de seu coelhinho de pelúcia azul chamado Sansão. 
                 Foi inspirada na filha de Mauricio de Souza, que quando criança tinha a mesma aparência e temperamento, além de utilizar roupas vermelhas com frequência e levar seu coelho de pelúcia por onde ia. 
@@ -30,7 +32,7 @@
         <aside class="img-menor">
             <img src="../img/8b7da58601dc75e668cdfdb5d81139b4.png" alt="turma da monica">   
         </aside>
-        <footer class="final">
+        <footer>
             <nav>
                 <ul class="footer">
                     <li><a href="cebolinha.php">Cebolinha</a></li> 

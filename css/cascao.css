@@ -17,3 +17,21 @@
 .menu2 {
     display: flex;
 }
+
+.personagem{
+    color: white;
+}
+.img-maior{
+    margin-bottom: 100px;
+}
+.texto p{
+    background: #e49696;
+}
+
+.footer {
+    background:#e0f805;
+}
+
+nav{
+    clear: both;
+}

@@ -12,13 +12,22 @@
     
 }
 
+.img-maior {
+    margin-top: 125px;
+}
 
-.footer1 {
-    display: flex;
+.personagem{
+    color: white;
+}
+
+.texto p{
+    background: #9bf7a0;
+}
+
+.footer {
     background:#1b6632;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
+}
 
-   
+nav{
+    clear: both;
 }
