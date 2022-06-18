@@ -20,7 +20,7 @@ body {
 article{
     width :1400px;
     height: 1000px;
-    padding: 23px;
+    padding-left: 80px;
     border-color: black;
     
 }
@@ -37,7 +37,7 @@ img{
 }
 
 h1{
-    color: white;
+    color: black;
 }
 
 h2{

@@ -16,14 +16,14 @@ body {
     display: flex;
 }
 
-section{
+article{
     width :1400px;
     height: 200px;
-    padding: 23px;
+    padding-left: 80px;
     
 }
 
-section section{
+article section{
     width: 420px;
     height: 200px;
     float: left;
@@ -36,7 +36,7 @@ img{
 }
 
 h1{
-    color: white;
+    color: black;
 }
 
 h2{

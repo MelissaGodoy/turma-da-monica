@@ -12,6 +12,7 @@
             include 'menu.php'; 
         ?>
         <article>
+            <h1>Colorir</h1>
             <section>
                 <img src="../img/Colorir1.jpg" alt="Está imagem contém quatro personagens da turma da Monica perto de uma arvore de Natal sendo eles, o cascão, cebolinha, Monica e Magali em época de Natal com o personagem cebolinha com um presente na mão, a Monica enfeitando a arvore de Natal, Magali abrindo uma melancia de presente e o cascão zombando da Magali pela melancia de presente. ">
                 <h2> Feliz Natal</h2>
