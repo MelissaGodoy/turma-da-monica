@@ -57,17 +57,18 @@ body{background:
     #EDFB97;}
    
     /*fale conosco*/
-section{position: absolute;
+form{
+    margin: auto;
     width: 721px;
-    height: 490px;
+    height: 600px;
     left: 470px;
     top: 363px;
     
     background:#FDFD96;}
 
 
-.f1 { position: absolute;
-    width: 271px;
+.f1 { 
+    width: 721px;
     height: 72px;
     left: 256px;
     top: -100px;
@@ -79,12 +80,12 @@ section{position: absolute;
     line-height: 33px;}
     
 
-.f2 {position: absolute;
-    width: 271px;
+.f2 {
+    width: 721px;
     height: 72px;
     left: 20px;
     top: 20px;
-    
+    text-align: left;margin-left: 10px;
     font-family: 'Mukta';
     font-style: normal;
     font-weight: 400;
@@ -94,10 +95,12 @@ section{position: absolute;
     color: #000000;
     }
 
-.f3{position: absolute;
-width: 271px;
-height: 72px;
-left: 20px;
+.f3{
+    width: 721px;
+    height: 72px;
+    text-align: left;
+    margin-left: 10px;
+
 top: 200px;
 
 font-family: 'Mukta';
@@ -110,29 +113,29 @@ color: #000000;
 
 }
 
-.f4{position: absolute;
+.f4{
     width: 660px;
     height: 71px;
     left: 20px;
     top: 90px;
     
    ;
-    
+    margin-left:0px;
     }
 
-.f5{position: absolute;
+.f5{
     width: 660px;
     height: 190px;
     left: 20px;
     top: 250px;
+    margin-left:5px;
     
     }
 
-.f6{position: absolute;
+.f6{
     width: 55px;
     height: 20px;
-    left: 290px;
-    top: 450px;
+    margin-left: 20px;
     }
 .fc {background: #A5EEA0;
 }

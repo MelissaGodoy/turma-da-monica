@@ -7,27 +7,17 @@
     <title>FALE CONOSCO</title>
     <link href="../css/default.css" rel="stylesheet">
     <link href="../css/menu.css" rel="stylesheet">
-    <link href="estilo.css" rel="stylesheet">
+    <link href="../css/estilo.css" rel="stylesheet">
 </head>
-
-
 <body class="fc">
-    <?php
-        include "menu.php";
-    ?>
-    <section>
-    <h1 class="f1">Fale conosco</h1>
-    <h2 class="f2" >Nome:</h2>
-    <input class="f4" type="search"> 
-    <h3 class="f3">Mensagem:</h3>
-    <input class="f5" type="search"> 
-    <input class="f6" type="button" value="enviar">
-    </section>
-
-
-    <footer>
-
-    </footer>
-
+    <?php include "menu.php";?>
+    <form>
+        <h1 class="f1">Fale conosco</h1>
+        <h2 class="f2" >Nome:</h2>
+        <input class="f4" type="search"> 
+        <h3 class="f3">Mensagem:</h3>
+        <input class="f5" type="search"> 
+        <input class="f6" type="button" value="enviar">
+    </form>
 </body>
 </html>

@@ -12,6 +12,7 @@
             <li><a href="jogos.php">Jogos</a></li> 
             <li><a href="gibis.php">Gibis</a></li> 
             <li><a href="atracoes.php">Atrações</a></li>
+            <li><a href="faleconosco.php">Fale Conosco</a></li>
         </ul>
     </nav>
 </header>   
