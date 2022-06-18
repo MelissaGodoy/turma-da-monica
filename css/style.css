@@ -1,5 +1,7 @@
 .article{
-    width: 1400 px;
+    width: 300 px;
+    float: left ;
+    border: solid 3px;
 }
 
 body, ul, li, p {
