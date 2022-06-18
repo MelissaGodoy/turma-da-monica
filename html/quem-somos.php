@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>QUEM SOMOS</title>
+        <link href="../css/default.css" rel="stylesheet">
         <link href="../css/menu.css" rel="stylesheet">
         <link href="estilo.css" rel="stylesheet">
         <link href="estilo-tabela.css" rel="stylesheet">
