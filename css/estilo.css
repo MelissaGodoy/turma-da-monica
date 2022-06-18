@@ -57,3 +57,83 @@ body{background:
     #EDFB97;}
 
 
+/*fale conosco*/
+section{position: absolute;
+    width: 721px;
+    height: 490px;
+    left: 359px;
+    top: 363px;
+    
+    background:#FDFD96;}
+
+
+.f1 { position: absolute;
+    width: 271px;
+    height: 72px;
+    left: 256px;
+    top: -100px;
+    
+    font-family: 'Mukta';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;}
+    
+
+.f2 {position: absolute;
+    width: 271px;
+    height: 72px;
+    left: 20px;
+    top: 20px;
+    
+    font-family: 'Mukta';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;
+    
+    color: #000000;
+    }
+
+.f3{position: absolute;
+width: 271px;
+height: 72px;
+left: 20px;
+top: 200px;
+
+font-family: 'Mukta';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 33px;
+
+color: #000000;
+
+}
+
+.f4{position: absolute;
+    width: 660px;
+    height: 71px;
+    left: 20px;
+    top: 90px;
+    
+   ;
+    
+    }
+
+.f5{position: absolute;
+    width: 660px;
+    height: 190px;
+    left: 20px;
+    top: 250px;
+    
+    }
+
+.f6{position: absolute;
+    width: 55px;
+    height: 20px;
+    left: 290px;
+    top: 450px;
+    }
+.fc {background: #A5EEA0;
+}
