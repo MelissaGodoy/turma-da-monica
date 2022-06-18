@@ -13,29 +13,27 @@
         <?php
             include "menu.php";
         ?>
-        <article>
-            <section class="primeiraimagem">
-                <li><a href="monica.php"><img src="../img/monicapers.-removebg-preview.png"></a></li>
-            </section>
-            <section class="segundaimagem">
-                <li><a href="cebolinha.php"><img src="../img/cebolinhapers.-removebg-preview.png"></a></li>
-            </section>
-            <section class="terceiraimagem">
-                <li><a href="magali.php"><img src="../img/magalipers.-removebg-preview.png"></a></li>
-            </section>
-            <section class="quartaimagem">
-                <li><a href="cascao.php"><img src="../img/cascaopers.-removebg-preview.png"></a></li>
-            </section>
-        </article>
-            <footer class="footerpers">
-                <nav>
-                    <ul class="primeirosbotoes">
-                        <li><a href="monica.php">monica</a></li>
-                        <li><a href="cebolinha.php">Cebolinha</a></li> 
-                        <li><a href="magali.php">Magali</a></li>
-                        <li><a href="cascao.php">Cascão</a></li>    
-                    </ul>
-                </nav>
-            </footer>
+        <aside class="primeiraimagem">
+            <a href="monica.php"><img src="../img/monicapers.-removebg-preview.png" alt="Aqui temos uma imagem da Mônica"></a>
+        </aside>
+        <aside class="segundaimagem">
+            <a href="cebolinha.php"><img src="../img/cebolinhapers.-removebg-preview.png" alt="Aqui temos uma imagem do Cebolinha"></a>
+        </aside>
+        <aside class="terceiraimagem">
+            <a href="magali.php"><img src="../img/magalipers.-removebg-preview.png" alt="Aqui temos uma imagem da Magali"></a>
+        </aside>
+        <aside class="quartaimagem">
+            <a href="cascao.php"><img src="../img/cascaopers.-removebg-preview.png" alt="Aqui temos uma imagem Cascão"></a>
+        </aside>
+        <footer class="footerpers">
+            <nav>
+                <ul class="primeirosbotoes">
+                    <li><a href="monica.php">monica</a></li>
+                    <li><a href="cebolinha.php">Cebolinha</a></li> 
+                    <li><a href="magali.php">Magali</a></li>
+                    <li><a href="cascao.php">Cascão</a></li>    
+                </ul>
+            </nav>
+        </footer>
     </body>
 </html>
