@@ -15,7 +15,7 @@
             <h1>Gibis</h1>
             <section>
                 <img src="../img/Gibi1verdadeiro.jpg" alt="Nesta imagem vemos a Magali com duas pizzas nas mãos, em um cenário mais retro, ela está junto do personagem Quinzinho.">
-                <h2> Magali</h2>
+                <h2> Magali com ou sem ketchup sinopse</h2>
                 <p>Magali acha que a pizza deve ser feita com ketchup e o Quinzinho, sem ketchup.
                    Então, eles vão ao passado através da máquina do tempo de 2 cientistas para verem se os antepassados colocavam ketchup nas pizzas,
                    mas eles causam muita confusão, fazendo pizza deixar de existir no tempo presente.
