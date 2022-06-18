@@ -14,7 +14,7 @@
             include "menu.php";
         ?>
         <aside class="primeiraimagem">
-            <a href="monica.php"><img src="../img/monicapers.-removebg-preview.png" alt="Aqui temos uma imagem da Mônica"></a>
+            <a href="monica.php"><img src="../img/monica-removebg-preview.png" alt="Aqui temos uma imagem da Mônica"></a>
         </aside>
         <aside class="segundaimagem">
             <a href="cebolinha.php"><img src="../img/cebolinhapers.-removebg-preview.png" alt="Aqui temos uma imagem do Cebolinha"></a>
