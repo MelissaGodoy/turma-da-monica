@@ -12,15 +12,11 @@
         <?php
             include "menu.php";
         ?>
-        
         <aside class="img-maior3">
             <img src="../img/magali-removebg-preview.png" alt="monica com samsao">
         </aside>
-        <aside class="img-menor3">
-            <img src="../img/magalimenor-removebg-preview.png" alt="turma da monica">     
-        </aside>
         <article class="article">
-            <h1>Magali</h1>
+            <h1 class="Magali">Magali</h1>
             <p class="texto3">
                 Magali é uma menina de sete anos de idade, conhecida por ser muito gulosa, ela come de tudo em grandes quantidades e em pouco tempo. 
                 É a mais meiga e delicada da turma além de estar sempre animada, contagiando a todos com a sua alegria. 
@@ -30,6 +26,9 @@
                 Foi inspirada na filha de Maurício de Souza, que também se chama Magali e adora melancia.  
             </p>
         </article>
+        <aside class="img-menor3">
+            <img src="../img/magalimenor-removebg-preview.png" alt="turma da monica">     
+        </aside>
         <footer class="final3">
             <nav>
                 <ul class="footer3">

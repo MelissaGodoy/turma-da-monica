@@ -15,12 +15,10 @@
         <aside class="img-maior1">
             <img src="../img/Cebolinha-removebg-preview.png" alt="monica com samsao">   
         </aside>
-        <aside class="img-menor1">
-            <img src="../img/cebolinhamenor.png " alt="turma da monica">    
-        </aside>
         <article class="texto1">
             <h1 class="cebolinha">Cebolinha</h1>
-            <p>Cebolinha é menino de 7 anos de idade que tem apenas 5 fios de cabelo e se acha muito inteligente. 
+            <p>
+                Cebolinha é menino de 7 anos de idade que tem apenas 5 fios de cabelo e se acha muito inteligente. 
                 Ele troca o “r” pelo “L” em suas falas e vive desenhando nos muros além de provocar sua amiga Mônica 
                 chamando-a de feia, baixinha e dentuça. Vive fazendo planos ‘infalíveis’ para derrotar a Mônica e 
                 tentando a todo momento roubar o seu coelhinho Sansão. Além disso faz planos para dar um banho em seu amigo cascão, que não gosta de água, e tenta fazer sua amiga Magali deixar de ser gulosa. 
@@ -31,6 +29,9 @@
                 Tem um cachorro, chamado Floquinho, da raça “Lhasa Apso” que é extremamente peludo e verde, se assemelhando a um esfregão. 
                 Ao contrário de seu melhor amigo Cascão que não gosta de tomar banho, cebolinha é o personagem que mais aparece em contato com a água p>
         </article>
+        <aside class="img-menor1">
+            <img src="../img/cebolinhamenor.png " alt="turma da monica">    
+        </aside>
         <footer>
             <nav>
                 <ul class="footer1"> 

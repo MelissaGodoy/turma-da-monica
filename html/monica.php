@@ -15,9 +15,6 @@
         <aside class="img-maior">
             <img src="../img/monica-removebg-preview.png" alt="monica com samsao">   
         </aside>
-        <aside class="img-menor">
-            <img src="../img/8b7da58601dc75e668cdfdb5d81139b4.png" alt="turma da monica">   
-        </aside>
         <article class="article">
             <h1 class="monica">Mônica</h1>
             <p class="texto">
@@ -30,6 +27,9 @@
                 Apesar de tantas intrigas, Mônica tem uma grande amizade com a maior parte das crianças do bairro, especialmente com a Magali, sua melhor amiga. 
             </p>
         </article>
+        <aside class="img-menor">
+            <img src="../img/8b7da58601dc75e668cdfdb5d81139b4.png" alt="turma da monica">   
+        </aside>
         <footer class="final">
             <nav>
                 <ul class="footer">

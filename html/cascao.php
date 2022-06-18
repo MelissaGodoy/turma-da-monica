@@ -1,40 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>turma da monica</title>
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/cascao.css">
-</head>
-
-<body class="body2">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>turma da monica</title>
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/cascao.css">
+    </head>
+    <body class="body2">
         <?php
             include "menu.php";
         ?>
-
-    <article class="article">
         <aside class="img-maior2">
             <img src="../img/Capa1-624x624-removebg-preview.png " alt="monica com samsao"> 
         </aside>
-        <section class="cascao">
-            <h1>Cascão</h1>
-        </section>
-        <section class="texto2">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit metus, condimentum non lacinia ac, fringilla eget ex. Aenean mattis ipsum at ligula
-                condimentum iaculis. Mauris laoreet, metus eget pharetra luctus, ipsum lacus placerat leo, quis dapibus leo tellus ac leo. Sed pulvinar porttitor nisl vel 
-                sollicitudin. Fusce in semper nisl. Pellentesque at ornare diam, semper commodo enim. Cras eu mollis metus, eu suscipit eros. Nulla vel dolor non odio semper
-                porta nec nec nisi. Donec vitae egestas quam, vitae tristique magna. Sed enim dui, cursus et justo iaculis, auctor venenatis dui. Mauris scelerisque consequat 
-                risus, eget condimentum leo tincidunt vel. Morbi semper ligula lobortis libero tempus, non gravida diam vestibulum. Vivamus tortor ex, consectetur ultrices 
-                consectetur eget, tincidunt quis urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit metus, condimentum non lacinia ac, fringilla eget ex. Aenean mattis ipsum at ligula
-                condimentum iaculis. Mauris laoreet, metus eget pharetra luctus, ipsum lacus placerat leo, quis dapibus leo tellus ac leo. Sed pulvinar porttitor nisl vel 
-                sollicitudin. Fusce in semper nisl. Pellentesque at ornare diam, semper commodo enim. Cras eu mollis metus, eu suscipit eros. Nulla vel dolor non odio semper
-                porta nec nec nisi. Donec vitae egestas quam, vitae tristique magna. Sed enim dui, cursus et justo iaculis, auctor venenatis dui. Mauris scelerisque consequat 
-                risus, eget condimentum leo tincidunt vel. Morbi semper ligula lobortis libero tempus, non gravida diam vestibulum.
-                sollicitudin. 
+        <article class="article">
+            <h1 class="cascao">Cascão</h1>
+            <p class="texto2">Cascão é um menino de sete anos de idade, sua principal característica é não gostar de tomar banho. E por esse motivo é perseguido por seus amigos que tentam lhe molhar. 
+                Adora jogar futebol sendo o mais habilidoso da turma nesse esporte. 
+                Usa sempre uma camiseta amarela com um short de suspensório vermelho. 
+                Foi inspirado em um menino que Maurício de Souza conheceu em Moji das Cruzes, que tinha esse apelido por ser muito sujo. 
+                Seu animal de estimação é um porco, chamado Chovinista, que assim como o dono odeia entrar em contato com a água.  
+                Participa sempre dos planos infalíveis de seu amigo Cebolinha, mesmo sabendo que os planos não darão certo. 
             </p>
-        </section>
+        </article>
         <aside class="img-menor2">
             <img src="../img/Cascao.png" alt="turma da monica">       
         </aside>
@@ -47,6 +37,5 @@
                 </ul>
             </nav>
         </footer>
-    </article>
-</body>
+    </body>
 </html>
