@@ -2,29 +2,29 @@
 /* quem somos*/
 .qm1{position: absolute;
     width: 230px;
-    height: 234px;
-    left: 84px;
-    top: 245px;
+    height: 245px;
+    left: 280px;
+    top: 297px;
     
 }
 
 .qm2{position: absolute;
     width: 230px;
-    height: 234px;
-    left: 84px;
-    top: 490px;}
+    height: 240px;
+    left: 280px;
+    top: 562px;}
 
 .qm3{position: absolute;
     width: 230px;
-    height: 270px;
-    left: 84px;
-    top:  984px;}
+    height: 281px;
+    left: 280px;
+    top:  1079px;}
 
 .qm4{position: absolute;
     width: 226px;
-    height: 237px;
-    left: 84px;
-    top: 735px;
+    height: 241px;
+    left: 280px;
+    top: 820px;
     }
 
 .th {
@@ -55,13 +55,12 @@ top: 865px;}
     }
 body{background: 
     #EDFB97;}
-
-
-/*fale conosco*/
+   
+    /*fale conosco*/
 section{position: absolute;
     width: 721px;
     height: 490px;
-    left: 359px;
+    left: 470px;
     top: 363px;
     
     background:#FDFD96;}
@@ -137,3 +136,39 @@ color: #000000;
     }
 .fc {background: #A5EEA0;
 }
+
+
+/*desenhos*/
+
+
+.turma{position: absolute;
+
+    width: 243px;
+    height: 366px;
+    left: 60px;
+    top: 419px;}
+
+.turm{   position: absolute;
+width: 243px;
+height: 366px;
+left: 400px;
+top: 416px;}
+
+.tur{position: absolute;
+    width: 243px;
+    height: 366px;
+    left: 730px;
+    top: 419px;}
+
+.tu{position: absolute;
+    width: 243px;
+    height: 366px;
+    left: 1060px;
+    top: 416px;
+
+}
+
+
+
+
+

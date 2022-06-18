@@ -5,23 +5,24 @@
         <title>QUEM SOMOS</title>
         <link href="../css/default.css" rel="stylesheet">
         <link href="../css/menu.css" rel="stylesheet">
-        <link href="estilo-tabela.css" rel="stylesheet">
         <link href="estilo.css" rel="stylesheet">
+        <link href="estilo-tabela.css" rel="stylesheet">
 
         <!--<link rel="stylesheet" href="yteste.css" type="text/css" />-->
     </head>
     <?php include "menu.php";?>
+    
 
    
     <body class="body2">
-        <article>
+     
             <h1 class="th">QUEM SOMOS</h1>
             <img src="melissa.jpg" class="qm1" alt="aqui temos a imagem da Melissa">
             <img src="jose.jpg"  class="qm2" alt="aqui temos a imagem do José Guilherme">
             <img src="yasmin.jpg" class="qm3" alt="aqui temos a imagem da Yasmin">
             <img src="gilberto.jpg" class="qm4" alt="aqui temos a imagem do Gilberto">
             <a href="quemsomos.html"> <img src="quemsomos.webp.crdownload" alt="" class="qms"> </a>
-        </article>
+     
        
          
        
@@ -35,7 +36,7 @@
                 </tr>
             </thead>
             <tbody>
-            <tr class="melissa">
+            <tr>
            
                 <td>Melissa Raineri Godoy</td>
                 <td>
