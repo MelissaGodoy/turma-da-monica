@@ -12,6 +12,7 @@
         include "menu.php";
         ?>
         <article>
+            <h1>Gibis</h1>
             <section>
                 <img src="../img/Gibi1verdadeiro.jpg" alt="Nesta imagem vemos a Magali com duas pizzas nas mãos, em um cenário mais retro, ela está junto do personagem Quinzinho.">
                 <h2> Magali</h2>
