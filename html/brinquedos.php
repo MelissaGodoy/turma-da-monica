@@ -15,12 +15,12 @@
             <section>
                 <img src="../img/casinha.jpg" alt="Aqui temos um brinquedo, a casinha da mônica">
                 <h2>Casinha da mônica</h2>
-                <p>ollicitudin. Fusce in semper nisl.Pellentesque at ornare diam, semper commodo enim. Cras </p>
+                <p>Interatividade e Diversão</p>
             </section>
             <section>
                 <img src="../img/pintura.jpg" alt="Aqui temos um kit pitura da turma da mônica">
                 <h2>Kit pintura</h2>
-                <p>ollicitudin. Fusce in semper nisl.Pellentesque at ornare diam,semper commodo enim. Cras</p>
+                <p></p>
             </section>
             <section>
                 <img src="../img/mascotes.jpg" alt="Aqui temos o sansão da turma da mônica">

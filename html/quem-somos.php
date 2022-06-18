@@ -17,11 +17,11 @@
     <body class="body2">
      
             <h1 class="th">QUEM SOMOS</h1>
-            <img src="melissa.jpg" class="qm1" alt="aqui temos a imagem da Melissa">
-            <img src="jose.jpg"  class="qm2" alt="aqui temos a imagem do José Guilherme">
-            <img src="yasmin.jpg" class="qm3" alt="aqui temos a imagem da Yasmin">
-            <img src="gilberto.jpg" class="qm4" alt="aqui temos a imagem do Gilberto">
-            <a href="quemsomos.html"> <img src="quemsomos.webp.crdownload" alt="" class="qms"> </a>
+            
+            
+            
+            
+            <a href="../img/quemsomos.html"> <img src="quemsomos.webp.crdownload" alt="" class="qms"> </a>
      
        
          
@@ -38,7 +38,8 @@
             <tbody>
             <tr>
            
-                <td>Melissa Raineri Godoy</td>
+                <td><img src="../img/melissa.jpg" class="qm1" alt="aqui temos a imagem da Melissa">
+                <p>Melissa Raineri Godoy</p</td>
                 <td>
                     <ul><li><a href ="cascão.php">Cascão</a></li>
                   <li><a href ="cebolinha.php">Cebolinha</a></li>
@@ -51,7 +52,8 @@
                     o primeiro semestre em Sistemas para Internet na FATEC de São Roque.</td>
             </tr>
             <tr>
-                <td>José Guilherme Guimarães Campos</td>
+                <td><img src="../img/jose.jpg"  class="qm2" alt="aqui temos a imagem do José Guilherme">
+                <p>José Guilherme Guimarães Campos</p></td>
                 <td><ul>
                 <li><a href ="jogos.php">Jogos</a></li>
                 <li><a href ="historia-parte1.php">História - 1</a></li> 
@@ -63,7 +65,8 @@
                 <td>José Guilherme Guimarães Campos, integrante do grupo do projeto integrador que mora em Mairinque, tem 25 anos e está cursando o primeiro semestre em para Internet na FATEC de São Roque.</td>
             </tr>
             <tr>
-                <td>Gilberto</td>
+                <td><img src="../img/gilberto.jpg" class="qm4" alt="aqui temos a imagem do Gilberto">
+                <p>Gilberto</p></td>
                 <td><ul><li><a href ="colorir.php">Colorir</a></li>
                     <li><a href ="index.php">Index</a></li>
                     <li><a href ="gibis.php">Gibis</a></li>
@@ -73,7 +76,8 @@
                 <td>Gilberto Giliarde Bueno Camargo, integrante do grupo do projeto integrador que mora em Mairinque , tem 18 anos e está cursando o primeiro semestre em Sistemas para Internet na FATEC de São Roque.</td>
             </tr>
             <tr>
-                <td>Yasmin</td>
+                <td><img src="../img/yasmin.jpg" class="qm3" alt="aqui temos a imagem da Yasmin">
+                <p>Yasmin</p></td>
                 <td> <ul><li><a href ="desenho.php">Desenhos</a></li>
                     <li><a href ="quem-somos.php">Quem somos</a></li>
                     <li><a href ="quadrinhos.php">Quadrinhos</a></li>
