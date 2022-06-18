@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,25 +12,27 @@
             <?php
                 include "menu.php";
             ?>
-        <h1 class="monica">Mônica</h1>
         <article class="article">
+            <h1 class="monica">Mônica</h1>
             <aside class="img-maior">
                 <img src="../img/monica-removebg-preview.png" alt="monica com samsao">   
             </aside>
             <aside class="img-menor">
                 <img src="../img/8b7da58601dc75e668cdfdb5d81139b4.png" alt="turma da monica">   
             </aside>
-            <p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit metus, condimentum non lacinia ac, fringilla eget ex. Aenean mattis ipsum at ligula
-                condimentum iaculis. Mauris laoreet, metus eget pharetra luctus, ipsum lacus placerat leo, quis dapibus leo tellus ac leo. Sed pulvinar porttitor nisl vel 
-                sollicitudin. Fusce in semper nisl. Pellentesque at ornare diam, semper commodo enim. Cras eu mollis metus, eu suscipit eros. Nulla vel dolor non odio semper
-                porta nec nec nisi. Donec vitae egestas quam, vitae tristique magna. Sed enim dui, cursus et justo iaculis, auctor venenatis dui. Mauris scelerisque consequat 
-                risus, eget condimentum leo tincidunt vel. Morbi semper ligula lobortis libero tempus, non gravida diam vestibulum. Vivamus tortor ex, consectetur ultrices 
-                consectetur eget, tincidunt quis urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit metus, condimentum non lacinia ac, fringilla eget ex. Aenean mattis ipsum at ligula
-                condimentum iaculis. Mauris laoreet, metus eget pharetra luctus, ipsum lacus placerat leo, quis dapibus leo tellus ac leo. Sed pulvinar porttitor nisl vel 
-                sollicitudin. Fusce in semper nisl. Pellentesque at ornare diam, semper commodo enim. Cras eu mollis metus, eu suscipit eros. Nulla vel dolor non odio semper
-                porta nec nec nisi. Donec vitae egestas quam, vitae tristique magna. Sed enim dui, cursus et justo iaculis, auctor venenatis dui. Mauris scelerisque consequat 
-                risus, eget condimentum leo tincidunt vel. Morbi semper ligula lobortis libero tempus, non gravida diam vestibulum.
-                sollicitudin. 
+            <p class="texto">Mônica é uma menina de 7 anos de idade, gordinha, dentuça e baixinha, de personalidade forte e briguenta. 
+
+                        Usa um vestido vermelho e está sempre acompanhada de seu coelhinho de pelúcia azul chamado Sansão. 
+                
+                        Foi inspirada na filha de Mauricio de Souza, que quando criança tinha a mesma aparência e temperamento, além de utilizar roupas vermelhas com frequência e levar seu coelho de pelúcia por onde ia. 
+                
+                        Ao contrário do que todos pensam, Mônica não foi sempre a protagonista das histórias. No início seu amigo cebolinha era o principal personagem, mas passou o cargo para ela devido a preferência do público. 
+                
+                        Seus colegas vivem irritando-a com brincadeiras de mau gosto como roubar seu coelho e dar nós em suas orelhas além de lhe apelidar com palavras desagradáveis, fazendo com que ela use da sua força sobrenatural para se vingar, agredindo seus colegas com seu coelho azul. 
+                
+                        Mônica tem um cachorro chamado Mônicão, que foi presente de seus amigos Cebolinha e Cascão, numa tentativa frustrada de zombar da menina, já que o cãozinho se parecia muito com ela, tanto pela aparência quanto pelo comportamento.  
+                
+                        Apesar de tantas intrigas, Mônica tem uma grande amizade com a maior parte das crianças do bairro, especialmente com a Magali, sua melhor amiga. 
             </p>
             <footer class="final">
                 <nav>
