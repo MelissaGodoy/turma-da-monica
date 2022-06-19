@@ -23,9 +23,7 @@
             <p>Cascão é um menino de sete anos de idade, sua principal característica é não gostar de tomar banho. E por esse motivo é perseguido por seus amigos que tentam lhe molhar. 
                 Adora jogar futebol sendo o mais habilidoso da turma nesse esporte. 
                 Usa sempre uma camiseta amarela com um short de suspensório vermelho. 
-                Foi inspirado em um menino que Maurício de Souza conheceu em Moji das Cruzes, que tinha esse apelido por ser muito sujo. 
-                Seu animal de estimação é um porco, chamado Chovinista, que assim como o dono odeia entrar em contato com a água.  
-                Participa sempre dos planos infalíveis de seu amigo Cebolinha, mesmo sabendo que os planos não darão certo. 
+                
             </p>
         </article>
         <aside class="img-menor">

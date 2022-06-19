@@ -1,5 +1,6 @@
 
-<footer><img class="fo" src="insta.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
+<footer>
+    <img class="fo" src="insta.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
     <img class="fot" src="wpp.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
     <img class="ff" src="face.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
     <img class="ffy" src="tw.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">

@@ -16,6 +16,7 @@
 
 .personagem{
     color: white;
+    text-transform: lowercase;
 }
 
 .img-maior{
