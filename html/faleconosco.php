@@ -12,8 +12,9 @@
 <body class="fc">
     <?php include "menu.php";
       include "footer.php";?>
+      <h1 >Fale conosco</h1>
     <form>
-        <h1 class="f1">Fale conosco</h1>
+        
         <h2 class="f2" >Nome:</h2>
         <input class="f4" type="search"> 
         <h3 class="f3">Mensagem:</h3>
