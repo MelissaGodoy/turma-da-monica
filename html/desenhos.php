@@ -8,11 +8,11 @@
         <title>DESENHOS</title>
     </head>
   
+    <body class="fc">
         <?php include "menu.php"; 
           include "footer.php";
           ?>
         
-        <body class="by">
             
             <article>
                 <h1 class="th">Desenhos</h1>
