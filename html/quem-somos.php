@@ -2,13 +2,10 @@
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
-        <title>QUEM SOMOS</title>
+        <link href="../css/estilo.css" rel="stylesheet">
         <link href="../css/default.css" rel="stylesheet">
         <link href="../css/menu.css" rel="stylesheet">
-        <link href="../css/estilo.css" rel="stylesheet">
-        
-
-       
+        <title>QUEM SOMOS</title>
     </head>
     <?php include "menu.php";
       include "footer.php";?>
