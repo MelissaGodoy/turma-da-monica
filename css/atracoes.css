@@ -1,0 +1,6 @@
+article {
+    display: flex;
+}
+ p{ 
+    width: 300px;
+ }
