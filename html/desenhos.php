@@ -12,7 +12,7 @@
           include "footer.php";
           ?>
         
-        <body class="q1">
+        <body class="by">
             
             <article>
                 <h1 class="th">Desenhos</h1>

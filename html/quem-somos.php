@@ -15,7 +15,7 @@
     
 
    
-    <body>
+    <body class="by">
      
             <h1 class="th">QUEM SOMOS</h1>
             

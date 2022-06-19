@@ -7,7 +7,7 @@
         <link href="estilo.css" rel="stylesheet">
         <title>QUADRINHOS</title>
     </head>
-    <body class="q1">
+    <body class="by">
         <?php include "menu.php";
           include "footer.php"; ?>
         
