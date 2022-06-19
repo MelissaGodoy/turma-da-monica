@@ -14,7 +14,7 @@
           ?>
         
             
-            <article>
+            <article class="by">
                 <h1 class="th">Desenhos</h1>
                
         <a href="https://www.youtube.com/watch?v=M5Mof0JAUI0"><img class="turma" src="../img/mo.jpg" alt="aqui temos a imagem da turma da MÔNICA"></a>
