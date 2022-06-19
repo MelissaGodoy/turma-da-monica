@@ -19,32 +19,32 @@ table tr td {
     #EDFB97;}
     
    
-.qm1{position: absolute;
-    width: 185px;
-    height: 130px;
-    left: 19px;
-    top: 260px;
-    
-}
-
-.qm2{position: absolute;
-    width: 185px;
-    height: 130px;
-    left: 19px;
-    top: 410px;}
-
-.qm3{position: absolute;
-    width: 185px;
-    height: 130px;
-    left: 19px;
-    top:  690px;}
-
-.qm4{position: absolute;
-    width: 185px;
-    height: 130px;
-    left: 19px;
-    top: 550px;
+    .qm1{position: absolute;
+        width: 185px;
+        height: 130px;
+        left: 52px;
+        top: 250px;
+        
     }
+    
+    .qm2{position: absolute;
+        width: 185px;
+        height: 130px;
+        left: 52px;
+        top: 395px;}
+    
+    .qm3{position: absolute;
+        width: 185px;
+        height: 130px;
+        left: 52px;
+        top:  685px;}
+    
+    .qm4{position: absolute;
+        width: 185px;
+        height: 130px;
+        left: 52px;
+        top: 535px;
+        }
 
 .th {
     text-align: center;
