@@ -2,7 +2,7 @@
     <nav>
         <ul class="menu">
             <li><a href="index.php">Home</a></li> 
-            <li><a href="quem-somos.php">Quem Somos</a></li> 
+            <li><a href="quem-somos.html">Quem Somos</a></li> 
             <li><a href="quadrinhos.php">Quadrinhos</a></li> 
             <li><a href="desenhos.php">Desenhos</a></li>   
             <li><a href="personagens.php">Personagens</a></li>

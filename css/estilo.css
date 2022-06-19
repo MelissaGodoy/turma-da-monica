@@ -1,48 +1,4 @@
 @charset "utf-8";
-.tb { background-color: brown;
-    text-align: center; 
-    
-}
-
-table tr td {
-    
-    border: 10px solid  rgba(10, 10, 10, 0.904);
-    padding: auto;
-    width:auto;
-    height: auto;
-    top: auto;
-    right: auto;    
-    
-}
-/* quem somos*/
-.by{background: 
-    #EDFB97;}
-    .qm1{position: absolute;
-        width: 175px;
-        height: 130px;
-        left: 69px;
-        top: 280px;
-        
-    }
-    
-    .qm2{position: absolute;
-        width: 175px;
-        height: 130px;
-        left: 69px;
-        top: 425px;}
-    
-    .qm3{position: absolute;
-        width: 175px;
-        height: 130px;
-        left: 69px;
-        top:  710px;}
-    
-    .qm4{position: absolute;
-        width: 175px;
-        height: 130px;
-        left: 69px;
-        top: 570px;
-        }
 
 .th {
     text-align: center;
