@@ -17,14 +17,8 @@
             <h1 class="th">QUEM SOMOS</h1>
             
             
-            
-            
-            
-     
        
-         
-       
-        <table>
+        <table class="tb">
             <thead>     
                 <tr>
                     <th>ALUNO</th>

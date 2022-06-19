@@ -1,10 +1,10 @@
 @charset "utf-8";
-table { background-color: brown;
+.tb { background-color: brown;
     text-align: center; 
     
 }
 
-table, tr, td {
+table tr td {
     
     border: 10px solid  rgba(10, 10, 10, 0.904);
     padding: auto;
