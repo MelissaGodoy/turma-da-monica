@@ -8,7 +8,9 @@
         <title>DESENHOS</title>
     </head>
   
-        <?php include "menu.php"; ?>
+        <?php include "menu.php"; 
+          include "footer.php";
+          ?>
         
         <body class="q1">
             

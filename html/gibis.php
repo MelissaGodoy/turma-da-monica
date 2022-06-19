@@ -10,6 +10,7 @@
     <body> 
         <?php
         include "menu.php";
+        include "footer.php";
         ?>
         <article>
             <h1>Gibis</h1>

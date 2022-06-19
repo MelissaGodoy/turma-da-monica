@@ -8,9 +8,10 @@
         <link href="estilo.css" rel="stylesheet">
         <link href="estilo-tabela.css" rel="stylesheet">
 
-        <!--<link rel="stylesheet" href="yteste.css" type="text/css" />-->
+       
     </head>
-    <?php include "menu.php";?>
+    <?php include "menu.php";
+      include "footer.php";?>
     
 
    
@@ -21,7 +22,7 @@
             
             
             
-            <a href="../img/quemsomos.html"> <img src="quemsomos.webp.crdownload" alt="" class="qms"> </a>
+            
      
        
          

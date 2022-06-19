@@ -25,3 +25,44 @@ nav ul li a{
 }
 
 
+.fo{
+    position: absolute;
+    width: 50px;
+    height: 51px;
+    left: 550px;
+    top: 901px;
+}
+
+.fot{
+    
+    
+    position: absolute;
+    width: 50px;
+    height: 51px;
+    left: 620px;
+    top: 901px;
+    
+}
+
+.ff{
+    position: absolute;
+width: 50px;
+height: 51px;
+left: 690px;
+top: 901px;
+}
+
+.ffy{position: absolute;
+    width: 50px;
+    height: 51px;
+    left: 760px;
+    top: 901px;}
+
+.qs{position: absolute;
+    width: 100px;
+    height: 60px;
+    left: 77px;
+    top: 890px;}
+
+
+

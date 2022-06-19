@@ -13,6 +13,7 @@
     <body class="body">
         <?php
             include "menu.php";
+            include "footer.php";
         ?>
         <aside class="img-maior">
             <img src="../img/magali-removebg-preview.png" alt="monica com samsao">

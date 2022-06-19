@@ -12,6 +12,7 @@
     <body>
         <?php
             include "menu.php";
+            include "footer.php";
         ?>
         <aside class="primeiraimagem">
             <a href="monica.php"><img src="../img/monica-removebg-preview.png" alt="Aqui temos uma imagem da Mônica"></a>

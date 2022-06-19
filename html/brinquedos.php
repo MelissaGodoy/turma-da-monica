@@ -7,8 +7,9 @@
         <link href="../css/brinquedos.css" rel="stylesheet">
     </head>
     <body>
-        <?php
-            include "menu.php";
+    <?php
+        include "menu.php";
+        include "footer.php";
         ?>
         <article>
         <h1>Brinquedos</h1>

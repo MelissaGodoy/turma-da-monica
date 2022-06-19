@@ -13,6 +13,7 @@
     <body class="body2">
         <?php
             include "menu.php";
+            include "footer.php";
         ?>
         <aside class="img-maior">
             <img src="../img/Capa1-624x624-removebg-preview.png " alt="monica com samsao"> 

@@ -10,7 +10,8 @@
     <link href="../css/estilo.css" rel="stylesheet">
 </head>
 <body class="fc">
-    <?php include "menu.php";?>
+    <?php include "menu.php";
+      include "footer.php";?>
     <form>
         <h1 class="f1">Fale conosco</h1>
         <h2 class="f2" >Nome:</h2>

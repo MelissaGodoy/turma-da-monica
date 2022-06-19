@@ -11,6 +11,7 @@
     <body class="bodyatrac">
         <?php
         include "menu.php";
+        include "footer.php";
         ?>
         <article class="articleatrac">
             <h1>Atrações</h1>

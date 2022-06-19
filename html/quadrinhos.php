@@ -8,7 +8,8 @@
         <title>QUADRINHOS</title>
     </head>
     <body class="q1">
-        <?php include "menu.php" ?>
+        <?php include "menu.php";
+          include "footer.php"; ?>
         
         <article>
             <h1 class="th">QUADRINHOS</h1>
