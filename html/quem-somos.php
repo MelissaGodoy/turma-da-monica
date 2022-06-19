@@ -3,35 +3,20 @@
     <head>
         <meta charset="utf-8">
         <title>QUEM SOMOS</title>
-        
-        <link href="estiloo.css" rel="stylesheet">
-      
-            <nav>
-          
-        
-
-        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="../css/default.css" rel="stylesheet">
+        <link href="../css/menu.css" rel="stylesheet">
+        <link  rel="stylesheet" href="../css/estiloo.css">
     </head>
-    <header class="header">
-        <nav>
-            <ul class="menu">
-                <li><a href="index.php">Home</a></li> 
-                <li><a href="quem-somos.php">Quem Somos</a></li> 
-                <li><a href="quadrinhos.php">Quadrinhos</a></li> 
-                <li><a href="desenhos.php">Desenhos</a></li>   
-                <li><a href="personagens.php">Personagens</a></li>
-                <li><a href="colorir.php">Colorir</a></li> 
-                <li><a href="historia-parte1.php">História</a></li> 
-                <li><a href="brinquedos.php">Brinquedos</a></li>
-                <li><a href="jogos.php">Jogos</a></li> 
-                <li><a href="gibis.php">Gibis</a></li> 
-                <li><a href="atracoes.php">Atrações</a></li>
-                <li><a href="faleconosco.php">Fale Conosco</a></li>
-            </ul>
-        </nav>
-    </header>   
-    
-   
+      
+      
+ 
+    <?php
+            include "menu.php";
+            include "footer.php";
+        ?>
+       
     
 
    
@@ -103,13 +88,6 @@
 
             </tbody>
             
-<footer>
-    <img class="fo" src="insta.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
-    <img class="fot" src="wpp.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
-    <img class="ff" src="face.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
-    <img class="ffy" src="tw.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
-    <a href="quemsomos.php"><img class="qs" src="q-somos.jpg" alt="aqui temos a imagem dos integrantes da turma da MÔNICA"></a>       
-</footer>
                
        
  </table>
