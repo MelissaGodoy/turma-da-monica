@@ -24,7 +24,7 @@
             </section>
             <section>
                 <h2>Espetáculo</h2>
-                <img src="../img/show.png" alt="show da turma da monica">
+                <img src="../img/show.jpg" alt="show da turma da monica">
                 <p>Divertido espetáculo musical Turma da Mônica O Show, no Shopping Eldorado, em São Paulo. Na apresentação os personagens Mônica, Cebolinha, Cascão, Magali e Chico Bento encenam esquetes engraçadas, dinâmicas, lúdicas e interativas por meio de suas músicas mais conhecidas com arranjos novos e modernos.</p>
                 <p>Endereço:Av. Rebouças, 3970, loja 409 – São Paulo/SP.</p>
                 <a href="http://teatrodasartessp.com.br/ingressos/">compre seu ingresso aqui</a>
@@ -43,14 +43,6 @@
                 <a href="https://www.dentrodahistoria.com.br/turma-da-monica/">clique aqui para criar</a> 
             </section>  
         </article>
-        <footer class="footeratrac">
-            <nav>
-                <ul class="footer3">
-                <li><a href="monica.php">Mônica</a></li>
-                <li><a href="cebolinha.php">Cebolinha</a></li> 
-                <li><a href="cascao.php ">Cascão</a></li>    
-                </ul>
-            </nav>
-        </footer>
+       
     </body>
 </html>
