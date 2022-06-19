@@ -23,10 +23,11 @@
     <body class="by">
      
             <h1 class="th">QUEM SOMOS</h1>
-            <img src="melissa.jpg" class="qm1" alt="aqui temos a imagem da Melissa">
-            <img src="jose.jpg"  class="qm2" alt="aqui temos a imagem do José Guilherme">
-            <img src="yasmin.jpg" class="qm3" alt="aqui temos a imagem da Yasmin">
-            <img src="gilberto.jpg" class="qm4" alt="aqui temos a imagem do Gilberto">
+            <img src="../img/melissa.jpg" class="qm1" alt="aqui temos a imagem da Melissa">
+            <img src="../img/jose.jpg"  class="qm2" alt="aqui temos a imagem do José Guilherme">
+            <img src="../img/yasmin.jpg" class="qm3" alt="aqui temos a imagem da Yasmin">
+            <img src="../img/gilberto.jpg" class="qm4" alt="aqui temos a imagem do Gilberto">
+           
          
        
          
