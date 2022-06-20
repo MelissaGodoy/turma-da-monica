@@ -17,10 +17,10 @@
         <article>
                     <h1 class="th">PERSONAGENS</h1>
                        
-                <a href="monica.php"><img class="turma" src="../img/monica2-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
-                <a href="cebolinha.php"><img class="turm" src="../img/cebolinhapers2.-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
-                <a href="magali.php"><img class="tur" src="../img/magalipers2.-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
-                <a href="cascao.php"><img class="tu" src="../img/cascaopers2.-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>       
+                <a href="monica.php"><img class="turma" src="../img/monica2-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
+                <a href="cebolinha.php"><img class="turm" src="../img/cebolinhapers2.-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
+                <a href="magali.php"><img class="tur" src="../img/magalipers2.-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
+                <a href="cascao.php"><img class="tu" src="../img/cascaopers2.-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>       
             </article> 
             <footer class="footerpers">
             <nav>
