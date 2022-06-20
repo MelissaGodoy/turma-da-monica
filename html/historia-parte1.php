@@ -10,7 +10,6 @@
     <body>
         <?php
             include "menu.php";
-            include "footer.php";
         ?>
         <article>
             <hgroup>
@@ -61,5 +60,8 @@
                 </ul>
             </nav>
         </footer>
+        <?php
+            include "footer.php";
+        ?>
     </body>
 </html>

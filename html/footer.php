@@ -1,5 +1,5 @@
 
-<footer>
+<footer class="footerPrincipal">
     <img class="fo" src="../img/insta.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
     <img class="fot" src="../img/wpp.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">
     <img class="ff" src="../img/face.jpg" alt="aqui temos as redes sociais da turma da MÔNICA">

@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body{
-    height: 2000px;
+    width:1400px;
+    height: 1300px;
     
 }
 .header{
@@ -44,3 +45,4 @@ h1{
     margin: auto;
     width: 600px;
 }
+
