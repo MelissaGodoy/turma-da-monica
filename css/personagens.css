@@ -43,8 +43,7 @@ a {
 
 .primeiraimagem{
  display: inline-block;
- width: 300px;
- height: 300px;
+
  padding: 10px;
  margin-top: 125px;
  background-color: #f0252f;
@@ -53,9 +52,6 @@ a {
 }
 .segundaimagem {
  display: inline-block;
- width: 300px;
- height: 300px;
- padding: 10px;
  margin-top: 125px;
  background-color: green;
 
@@ -63,9 +59,6 @@ a {
 
 .terceiraimagem {
  display: inline-block;
- width: 300px;
- height: 300px;
- padding: 10px;
  margin-top: 125px;
  background-color: #fafa04;
 
@@ -74,13 +67,9 @@ a {
 
 .quartaimagem {
  display: inline-block;
- width: 300px;
- height: 300px;
- padding: 30px;
  margin-top: 125px;
  background-color: #c2bf1c;
  
-
 }
 
 
