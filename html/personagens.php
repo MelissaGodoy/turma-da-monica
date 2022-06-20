@@ -20,7 +20,7 @@
                 <a href="monica.php"><img class="primeiraimagem" src="../img/monica2-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
                 <a href="cebolinha.php"><img class="segundaimagem" src="../img/cebolinhapers2.-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
                 <a href="magali.php"><img class="terceiraimagem" src="../img/magalipers2.-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
-                <a href="cascao.php"><img class="quartaimagem" src="../img/cascaopers2.-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>       
+                <a href="cascao.php"><img class="quartaimagem" src="../img/cascaopers3.-removebg-preview-removebg-preview-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>       
             </article> 
             <footer class="footerpers">
             <nav>
