@@ -3,15 +3,15 @@
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <link href="../css/atracoes.css" rel="stylesheet">
+        <link href="../css/default.css" rel="stylesheet">
         <link href="../css/menu.css" rel="stylesheet">
+        <link href="../css/atracoes.css" rel="stylesheet">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
     </head>
     <body class="bodyatrac">
         <?php
         include "menu.php";
-        include "footer.php";
         ?>
         <article>
             <h1>Atrações:</h1>
@@ -48,6 +48,8 @@
                 <a href="https://www.dentrodahistoria.com.br/turma-da-monica/">clique aqui para criar</a> 
             </section>  
         </article>
-       
+        <?php
+        include "footer.php";
+        ?>
     </body>
 </html>
