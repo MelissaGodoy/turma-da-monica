@@ -8,4 +8,6 @@ article {
 
  h1{
     border: 30px;
+    display: block;
  }
+

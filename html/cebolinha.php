@@ -13,7 +13,6 @@
     <body class="body">
         <?php
             include "menu.php";
-            include "footer.php";
         ?>
         <aside class="img-maior">
             <img src="../img/Cebolinha-removebg-preview.png" alt="monica com samsao">   
@@ -26,7 +25,11 @@
                 chamando-a de feia, baixinha e dentuça. Vive fazendo planos ‘infalíveis’ para derrotar a Mônica e 
                 tentando a todo momento roubar o seu coelhinho Sansão. Além disso faz planos para dar um banho em seu amigo cascão, que não gosta de água, e tenta fazer sua amiga Magali deixar de ser gulosa. 
                 No início era o personagem principal das histórias, porém logo passou o cargo para sua amiga Mônica. 
-                
+                Foi inspirado em um dos amigos de infância do irmão de Maurício de Souza que também tinha os cabelos espetados e trocava o ‘r’ pelo ‘l’ em suas falas. 
+                Usa sempre camisa verde, short preto e sapatos marrons, sendo o único dos quatro principais personagens a usar sapato já que seus amigos Cascão, Mônica e Magali não têm o costume. 
+                Além disso é o único dos principais personagens que não é filho único pois possui uma irmã caçula. 
+                Tem um cachorro, chamado Floquinho, da raça “Lhasa Apso” que é extremamente peludo e verde, se assemelhando a um esfregão. 
+                Ao contrário de seu melhor amigo Cascão que não gosta de tomar banho, cebolinha é o personagem que mais aparece em contato com a água p>
         </article>
         <aside class="img-menor">
             <img src="../img/cebolinhamenor.png " alt="turma da monica">    
@@ -40,5 +43,8 @@
                 </ul>
             </nav>
         </footer>
+        <?php
+            include "footer.php";
+        ?>
     </body>
 </html>

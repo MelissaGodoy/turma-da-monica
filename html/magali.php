@@ -13,7 +13,6 @@
     <body class="body">
         <?php
             include "menu.php";
-            include "footer.php";
         ?>
         <aside class="img-maior">
             <img src="../img/magali-removebg-preview.png" alt="monica com samsao">
@@ -25,7 +24,9 @@
                 É a mais meiga e delicada da turma além de estar sempre animada, contagiando a todos com a sua alegria. 
                 Sua comida preferida é melancia, porém não há nada que ela rejeite quando o assunto é comer!  
                 Usa um vestido amarelo e não tem o costume de usar sapatos. 
-                
+                Tem um gato de estimação da raça angorá, chamado Mingau que assim como a dona é amoroso e animado. 
+                Foi inspirada na filha de Maurício de Souza, que também se chama Magali e adora melancia.  
+            </p>
         </article>
         <aside class="img-menor">
             <img src="../img/magalimenor-removebg-preview.png" alt="turma da monica">     
@@ -39,5 +40,8 @@
                 </ul>
             </nav>
         </footer>
+        <?php
+            include "footer.php"
+        ?>
     </body>
 </html>

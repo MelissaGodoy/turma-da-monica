@@ -13,7 +13,6 @@
     <body class="body">
         <?php
             include "menu.php";
-            include "footer.php";
         ?>
         <aside class="img-maior">
             <img src="../img/monicapers2-removebg-preview-removebg-preview.png" alt="monica com samsao">   
@@ -25,7 +24,9 @@
                 Usa um vestido vermelho e está sempre acompanhada de seu coelhinho de pelúcia azul chamado Sansão. 
                 Foi inspirada na filha de Mauricio de Souza, que quando criança tinha a mesma aparência e temperamento, além de utilizar roupas vermelhas com frequência e levar seu coelho de pelúcia por onde ia. 
                 Ao contrário do que todos pensam, Mônica não foi sempre a protagonista das histórias. No início seu amigo cebolinha era o principal personagem, mas passou o cargo para ela devido a preferência do público. 
-                
+                Seus colegas vivem irritando-a com brincadeiras de mau gosto como roubar seu coelho e dar nós em suas orelhas além de lhe apelidar com palavras desagradáveis, fazendo com que ela use da sua força sobrenatural para se vingar, agredindo seus colegas com seu coelho azul. 
+                Mônica tem um cachorro chamado Mônicão, que foi presente de seus amigos Cebolinha e Cascão, numa tentativa frustrada de zombar da menina, já que o cãozinho se parecia muito com ela, tanto pela aparência quanto pelo comportamento.  
+                Apesar de tantas intrigas, Mônica tem uma grande amizade com a maior parte das crianças do bairro, especialmente com a Magali, sua melhor amiga. 
             </p>
         </article>
         <aside class="img-menor">
@@ -40,7 +41,9 @@
                 </ul>
             </nav>
         </footer>
-        
+        <?php
+            include "footer.php";
+        ?>
     </body>
 </html>
 

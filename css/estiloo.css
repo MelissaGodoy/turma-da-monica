@@ -1,12 +1,12 @@
 @charset "UTF-8";
-table { background-color: brown;
+table { 
     text-align: center; 
     
 }
 
 table tr td {
     
-    border: 10px solid  black;
+    
     padding:auto;
     width:auto;
     height:auto;
@@ -55,15 +55,6 @@ height: 80px;
 left: 85px;
 top: 865px;}
 
-
-
-.header{
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;  
-    width: 1400px;
-    background-color: brown;
-}
 .menu ,li {
     display: flex;
     font-size: 1.2rem;
