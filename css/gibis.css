@@ -5,5 +5,10 @@ section{
 }
 
 body{
-    height: 1500px;
+    height: 1000px;
+}
+
+footer{
+    position: relative;
+    clear: both;
 }
