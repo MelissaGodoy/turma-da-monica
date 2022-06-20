@@ -24,6 +24,16 @@
                 <a href="magali.php"><img class="tur" src="../img/magalipers.-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>
                 <a href="cascao.php"><img class="tu" src="../img/cascaopers.-removebg-preview.png" alt="aqui temos a imagem da turma da MÔNICA"></a>       
             </article> 
+            <footer class="footerpers">
+            <nav>
+                <ul class="primeirosbotoes">
+                    <li><a href="monica.php">monica</a></li>
+                    <li><a href="cebolinha.php">Cebolinha</a></li> 
+                    <li><a href="magali.php">Magali</a></li>
+                    <li><a href="cascao.php">Cascão</a></li>    
+                </ul>
+            </nav>
+        </footer>
            
             
     </body>
