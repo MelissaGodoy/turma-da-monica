@@ -14,13 +14,14 @@
         include "footer.php";
         ?>
         <article>
-            <h1>Atrações</h1>
+            <h1>Atrações:</h1>
             <section class="container">
                 <h2>Parque da Mônica</h2>
                 <img src="../img/parquedamonica.jpg" alt="parque da monica" class="img">
                 <p class="pr">O Parque da Mônica é um parque de diversão temático com os personagens criados por Maurício de Sousa 
                 Endereço: Av. das Nações Unidas, 22540 - Jurubatuba, São Paulo - SP, 04795-000
                 </p>
+                <a href="https://ecommerce.parquedamonica.com.br/">faça sua reserva já</a>
                 
                 
             </section>
@@ -29,7 +30,8 @@
                 <h2 class="sub">Espetáculo</h2>
                 <img src="../img/show.jpg" alt="show da turma da monica"class="img2">
                 <p class="pr2">Divertido espetáculo musical Turma da Mônica O Show, no Shopping Eldorado, em São Paulo. Na apresentação os personagens Mônica, Cebolinha, Cascão, Magali e Chico Bento encenam esquetes engraçadas, dinâmicas, lúdicas e interativas por meio de suas músicas mais conhecidas com arranjos novos e modernos.
-                   Endereço:Av. Rebouças, 3970, loja 409 – São Paulo/SP.</p>
+                   Endereço:Av. Rebouças, 3970, loja 409 – São Paulo/SP.</p>  
+                <a href="http://teatrodasartessp.com.br/peca/turma-da-monica-o-show/">faça sua reserva já</a>
                 
 
             </section>

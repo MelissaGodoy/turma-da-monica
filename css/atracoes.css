@@ -5,3 +5,7 @@ article {
  p{ 
     width: 300px;
  }
+
+ h1{
+    border: 30px;
+ }
