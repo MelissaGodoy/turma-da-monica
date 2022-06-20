@@ -10,7 +10,6 @@
     <body> 
         <?php
         include "menu.php";
-        include "footer.php";
         ?>
         <article>
             <h1>Gibis</h1>
@@ -70,5 +69,9 @@
                 </p>
             </section>  
         </article>
+        <?php
+            
+        include "footer.php";
+        ?>
     </body>
 </html> 
