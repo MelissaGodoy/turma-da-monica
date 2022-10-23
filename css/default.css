@@ -41,7 +41,7 @@ h2,th{
     font-family:BlueNight;
 }
 p{
-    font-family: Toona Personal Use;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 2em;
 }
 .footer{
@@ -68,5 +68,6 @@ p{
 }
 
 .footerPrincipal{
-   position: relative;
+   position: absolute;
+   border: black solid 3px;
 }

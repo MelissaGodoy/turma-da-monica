@@ -1,5 +1,4 @@
 @charset "utf-8";
-body .by{background: #EDFB97;}
     
 .th {
     text-align: center;
@@ -27,8 +26,7 @@ top: 865px;}
     left: 977px;
     top: 324px;
     }
-body{background: 
-    #EDFB97;}
+
    
     /*fale conosco*/
 form{
@@ -38,7 +36,7 @@ form{
     left: 470px;
     top: 363px;
     
-    background:brown;}
+    }
 
 
 .f1 { 
@@ -111,8 +109,7 @@ color: #000000;
     height: 20px;
     margin-left: 20px;
     }
-.fc {background:#EDFB97;
-}
+
 
 
 /*desenhos*/

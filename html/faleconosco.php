@@ -8,18 +8,36 @@
     <link href="../css/default.css" rel="stylesheet">
     <link href="../css/menu.css" rel="stylesheet">
     <link href="../css/estilo.css" rel="stylesheet">
+    <link href="../css/css//bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <style>
+        .container{
+            padding-top:100px;
+        }
+
+    </style>
 </head>
-<body class="fc">
+<body>
     <?php include "menu.php";
       include "footer.php";?>
+      
+
+        <div class="container">
+        <form>
+    <div class="mb-3 text-center">
       <h1 >Fale conosco</h1>
-    <form>
-        
-        <h2 class="f2" >Nome:</h2>
-        <input class="f4" type="search"> 
-        <h3 class="f3">Mensagem:</h3>
-        <input class="f5" type="search"> 
-        <input class="f6" type="button" value="enviar">
+    </div>
+    <div class="mb-3 col-10 ">
+        <labe>Nome:</label>
+        <input class="form-control col-10" type="search"> 
+    </div>
+    <div class="mb-3 col-10">
+        <label >Mensagem:</label>
+        <textarea class="form-control col-10" type="text" height="800"></textarea>
+    </div> 
+    <div class="d-grid gap-2 d-md-flex justify-content-md-end col-10">
+        <input  type="button" class="btn btn-outline-primary  col-4" value="enviar">
+    </div>
     </form>
+    </div>
 </body>
 </html>

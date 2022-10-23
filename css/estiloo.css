@@ -15,8 +15,6 @@ table tr td {
     
 }
 
-.by{background: 
-    #EDFB97;}
     
    
     .qm1{position: absolute;
@@ -60,7 +58,10 @@ top: 865px;}
     font-size: 1.2rem;
     font-family: BlueNight;
 }
-
+th{
+    background: #f03d3d;
+    color: white;
+}
 nav ul li a{
     text-decoration: none;
     color: white;
